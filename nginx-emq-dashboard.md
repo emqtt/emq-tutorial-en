@@ -8,7 +8,7 @@
 
 #### 1.1 Architecture of EMQ Dashboard
 
-The EMQ Dashboard frontend page is designed using a single-page application (SPA), the back end uses the MochiWeb server with [RESTful API] (http://emqtt.io/docs/v2/rest.html) and the backend server proxies all The front-end routing requests are forwarded to the front end. This architecture enables a good front-to-back end-of-line separation in deployment with less reliance on Dashboard, greatly simplifying the Dashboard startup process.
+The EMQ Dashboard frontend page is designed using a single-page application (SPA), the back end uses the MochiWeb server with [RESTful API](http://emqtt.io/docs/v2/rest.html) and the backend server proxies all The front-end routing requests are forwarded to the front end. This architecture enables a good front-to-back end-of-line separation in deployment with less reliance on Dashboard, greatly simplifying the Dashboard startup process.
 
 #### 1.2 EMQ API description
 
